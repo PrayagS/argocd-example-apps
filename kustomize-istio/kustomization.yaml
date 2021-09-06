@@ -5,6 +5,7 @@ resources:
 - clusterrole.yaml
 - clusterrole_binding.yaml
 - service_account.yaml
+- crds.yaml
 - deployment.yaml
 - service.yaml
 - namespace-istio-system.yaml
