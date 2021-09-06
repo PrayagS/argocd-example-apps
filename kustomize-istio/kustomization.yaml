@@ -9,3 +9,4 @@ resources:
 - deployment.yaml
 - service.yaml
 - namespace-istio-system.yaml
+- istio.yaml
